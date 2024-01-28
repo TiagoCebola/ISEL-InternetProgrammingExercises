@@ -1,0 +1,82 @@
+[
+	{
+		"name": "Root",
+		"url": "https://www.boardgameatlas.com/game/TAAifFP590/root"
+	},
+	{
+		"name": "Scythe",
+		"url": "https://www.boardgameatlas.com/game/yqR4PtpO8X/scythe"
+	},
+	{
+		"name": "Wingspan",
+		"url": "https://www.boardgameatlas.com/game/5H5JS0KLzK/wingspan"
+	},
+	{
+		"name": "Gloomhaven",
+		"url": "https://www.boardgameatlas.com/game/RLlDWHh7hR/gloomhaven"
+	},
+	{
+		"name": "Terraforming Mars",
+		"url": "https://www.boardgameatlas.com/game/fDn9rQjH9O/terraforming-mars"
+	},
+	{
+		"name": "Azul",
+		"url": "https://www.boardgameatlas.com/game/i5Oqu5VZgP/azul"
+	},
+	{
+		"name": "Viticulture: Essential Edition",
+		"url": "https://www.boardgameatlas.com/game/7NYbgH2Z2I/viticulture-essential-edition"
+	},
+	{
+		"name": "Pandemic",
+		"url": "https://www.boardgameatlas.com/game/6FmFeux5xH/pandemic"
+	},
+	{
+		"name": "Spirit Island",
+		"url": "https://www.boardgameatlas.com/game/kPDxpJZ8PD/spirit-island"
+	},
+	{
+		"name": "7 Wonders",
+		"url": "https://www.boardgameatlas.com/game/OF145SrX44/7-wonders"
+	},
+	{
+		"name": "7 Wonders Duel",
+		"url": "https://www.boardgameatlas.com/game/j8LdPFmePE/7-wonders-duel"
+	},
+	{
+		"name": "Codenames",
+		"url": "https://www.boardgameatlas.com/game/GP7Y2xOUzj/codenames"
+	},
+	{
+		"name": "The Castles of Burgundy",
+		"url": "https://www.boardgameatlas.com/game/VNBC6yq1WO/the-castles-of-burgundy"
+	},
+	{
+		"name": "Carcassonne",
+		"url": "https://www.boardgameatlas.com/game/oGVgRSAKwX/carcassonne"
+	},
+	{
+		"name": "Splendor",
+		"url": "https://www.boardgameatlas.com/game/O0G8z5Wgz1/splendor"
+	},
+	{
+		"name": "Pandemic Legacy: Season 1",
+		"url": "https://www.boardgameatlas.com/game/mce5HZPnF5/pandemic-legacy-season-1-red-edition"
+	},
+	{
+		"name": "Concordia",
+		"url": "https://www.boardgameatlas.com/game/FCuXPSfhDR/concordia"
+	},
+	{
+		"name": "Everdell",
+		"url": "https://www.boardgameatlas.com/game/8xos44jY7Q/everdell"
+	},
+	{
+		"name": "Ticket to Ride",
+		"url": "https://www.boardgameatlas.com/game/AuBvbISHR6/ticket-to-ride"
+	},
+	{
+		"name": "Brass: Birmingham",
+		"url": "https://www.boardgameatlas.com/game/3IPVIROfvl/brass-birmingham"
+	}
+]
